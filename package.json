@@ -9,7 +9,7 @@
   "author": "Abimael Tavares",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "winston": "^3.2.1"
   },
   "type": "module"
